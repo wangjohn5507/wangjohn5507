@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @wangjohn5507
 - 👀 I’m interested in DL(especially in NLP), AI, Blockchain, Web3.
-- 🌱 I’m currently learning Web3 Application and Blockchain Security.
-- 💞️ I'm currently applying to graduate programs(Information Studies & CS) in Canada.
+- 💞️ I'm currently studying a computer science master's program at York University in Canada.
 - 📫 Welcome to contact me by mail "John550714@gmail.com"!
 
 <!---
