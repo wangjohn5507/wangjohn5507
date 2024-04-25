@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wangjohn5507
 - 👀 I’m interested in ML, DL(especially in NLP), SE.
-- 💞️ I'm a graduate student of computer science (M.Sc) at York University in Canada.
+- 💞️ I'm a graduate student of Computer Science (M.Sc) at York University in Canada.
 - 📫 Welcome to contact me by mail "chungyuwang5507@gmail.com"!
 - 🙌 Here is my personal website "https://wangjohn5507.github.io/"
 
